@@ -1,0 +1,29 @@
+{
+  "name": "silver",
+  "version": "1.0.0",
+  "description": "",
+  "main": "shard.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Reverso",
+  "license": "ISC",
+  "dependencies": {
+    "better-sqlite-pool": "^0.2.2",
+    "cpu-stat": "^2.0.1",
+    "discord.js": "^11.4.2",
+    "dotenv": "^7.0.0",
+    "enmap": "^4.8.4",
+    "firebase": "^5.10.1",
+    "firebase-admin": "^7.3.0",
+    "fs": "0.0.1-security",
+    "moment": "^2.24.0",
+    "moment-duration-format": "^2.2.2",
+    "ms": "^2.1.1",
+    "nodemon": "^1.18.11",
+    "os": "^0.1.1",
+    "quick.db": "^7.0.0-b22",
+    "relevant-urban": "^2.0.0",
+    "urban": "^0.3.2"
+  }
+}
